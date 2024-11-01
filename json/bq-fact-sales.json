@@ -1,0 +1,52 @@
+{
+    "BigQuery Schema": [
+        {
+            "name": "Sales_ID",
+            "type": "STRING"
+        },
+        {
+            "name": "Order_ID",
+            "type": "STRING"
+        },
+        {
+            "name": "Customer_ID",
+            "type": "STRING"
+        },
+        {
+            "name": "Product_ID",
+            "type": "STRING"
+        },
+        {
+            "name": "City_ID",
+            "type": "STRING"
+        },
+        {
+            "name": "Order_Date_ID",
+            "type": "STRING"
+        },
+        {
+            "name": "Ship_Date_ID",
+            "type": "STRING"
+        },
+        {
+            "name": "Ship_Mode",
+            "type": "STRING"
+        },
+        {
+            "name": "Sales",
+            "type": "FLOAT"
+        },
+        {
+            "name": "Quantity",
+            "type": "INTEGER"
+        },
+        {
+            "name": "Discount",
+            "type": "FLOAT"
+        },
+        {
+            "name": "Profit",
+            "type": "FLOAT"
+        }
+    ]
+}

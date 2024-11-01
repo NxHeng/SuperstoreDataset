@@ -1,0 +1,20 @@
+{
+    "BigQuery Schema": [
+        {
+            "name": "City",
+            "type": "STRING"
+        },
+        {
+            "name": "State",
+            "type": "STRING"
+        },
+        {
+            "name": "Country",
+            "type": "STRING"
+        },
+        {
+            "name": "City_ID",
+            "type": "STRING"
+        }
+    ]
+}

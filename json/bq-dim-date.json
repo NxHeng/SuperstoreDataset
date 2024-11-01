@@ -1,0 +1,24 @@
+{
+    "BigQuery Schema": [
+        {
+            "name": "Date",
+            "type": "DATE"
+        },
+        {
+            "name": "Month",
+            "type": "INTEGER"
+        },
+        {
+            "name": "Quarter",
+            "type": "INTEGER"
+        },
+        {
+            "name": "Year",
+            "type": "INTEGER"
+        },
+        {
+            "name": "Date_ID",
+            "type": "STRING"
+        }
+    ]
+}
